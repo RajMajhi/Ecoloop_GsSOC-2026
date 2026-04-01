@@ -16,6 +16,8 @@ Thank you for your interest in contributing to EcoLoop. We welcome contributors 
 6. Push to your fork
 7. Open a Pull Request (PR)
 
+For those who are new to github or git, I have created a specific public Repository named as Git-Github check that out for a basic level of understanding. 
+
 ---
 
 ##  Contribution Guidelines
