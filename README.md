@@ -94,3 +94,5 @@ Reducing waste, promoting reuse, and supporting sustainable businesses.
 ## API Documentation
 Refer to docs/api.md for API details.
 
+## 🗺️ Roadmap
+Refer to ROADMAP.md for project plan.
